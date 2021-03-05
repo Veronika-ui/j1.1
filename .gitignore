@@ -1,0 +1,47 @@
+Большие пальцы.дБ*
+.DS_Store*
+HELP.md
+-грэдл
+сборка/
+цель/
+
+### STS ###
+.apt_generated
+.путь к классу
+.factorypath
+.проект
+.настройки
+. весенние бобы
+. sts4-кэш
+
+## # IntelliJ идея ###
+- идея
+*. iws
+*.iml
+*.ПиС
+вон/
+
+### NetBeans ###
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+
+### Против кода ###
+.vscode/
+
+### Файлы Пакетов ###
+*.баночка
+*.война
+*.нар
+*.ухо
+*. zip
+*.tar.gz
+*. rar
+
+### Исключения ###
+!gradle/wrapper/gradle-wrapper.jar
+!.mvn/обертка/maven-wrapper.jar
+!**/src/main/**
+!**/src/test/**
