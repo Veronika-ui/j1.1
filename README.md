@@ -10,7 +10,7 @@
 
 *https://github.com/Veronika-ui/j1.1/issues/1*
 
-<ссылка на описание дефекта>
+*https://github.com/Veronika-ui/j1.1/issues/2*
 
 
 
